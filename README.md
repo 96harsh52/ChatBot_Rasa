@@ -66,7 +66,3 @@ In the future, you can consider enhancing this project in the following ways:
 5. **Continuous Improvement**: Continuously train and improve the chatbot's NLU and dialogue management models to provide a better user experience.
 
 Feel free to contribute to this project and explore these future enhancements to create a more robust and feature-rich hotel booking chatbot. Happy coding!
-
----
-
-**Note**: Make sure to follow best practices for secure and responsible chatbot development, especially when handling user data and integrating with external systems.
